@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="vi" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://levents.asia/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://levents.asia/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://levents.asia/collections/hoodie.atom"/>
+  <title>Levents</title>
+  <updated>2025-01-06T19:40:02+07:00</updated>
+  <author>
+    <name>Levents</name>
+  </author>
+  <entry>
+    <id>https://levents.asia/products/9256366473493</id>
+    <published>2025-01-06T19:40:02+07:00</published>
+    <updated>2025-01-06T19:40:02+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-seasonal-visual-hoodie-boxy-2-0"/>
+    <title>Levents® Seasonal Visual Hoodie Boxy 2.0</title>
+    <s:type>HOODIE</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/DarkBlue_LHOBXCOD257UB0502FW24_1.jpg?v=1736167306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>HOODIE<br>
+        <strong>Giá: </strong>
+            650000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Group_39.jpg?v=1736167107"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_ad2a8a81-9256-43d0-b6d8-12e3f9982176.jpg?v=1736167107"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_58c26a3e-a6be-445e-98ed-5181d9b4d4e3.jpg?v=1736167108"></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_1.jpg?v=1742465040" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9256366473493</id>
+      <title>Size 2 / Dark Blue</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LHOBXCOD257UB0502FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9256366473493</id>
+      <title>Size 2 / Light Brown</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LHOBXCOD257UN0202FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9256366473493</id>
+      <title>Size 2 / Tan</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LHOBXCOD257UT0402FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9256366473493</id>
+      <title>Size 3 / Dark Blue</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LHOBXCOD257UB0503FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9256366473493</id>
+      <title>Size 3 / Light Brown</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LHOBXCOD257UN0203FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9256366473493</id>
+      <title>Size 3 / Tan</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LHOBXCOD257UT0403FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9256366473493</id>
+      <title>Size 4 / Dark Blue</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LHOBXCOD257UB0504FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9256366473493</id>
+      <title>Size 4 / Light Brown</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LHOBXCOD257UN0204FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9256366473493</id>
+      <title>Size 4 / Tan</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LHOBXCOD257UT0404FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9247566987541</id>
+    <published>2024-12-09T19:50:39+07:00</published>
+    <updated>2024-12-09T19:50:39+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-dolphin-hoodie-boxy-2-0"/>
+    <title>Levents® Dolphin Hoodie Boxy 2.0</title>
+    <s:type>HOODIE</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Blue_LHOBXCOD439UB0102FW24_1.jpg?v=1733748567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>HOODIE<br>
+        <strong>Giá: </strong>
+            620000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_a9f1c445-0bc2-4d88-b12d-00c6d34e46df.jpg?v=1733748428"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_29320b9a-88f9-403a-88ca-6d2a51e2bb4c.jpg?v=1733748428"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_376b5a78-f839-4489-bb6e-a7df7abd63e0.jpg?v=1733748429"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_06f8a5f4-7774-4f0e-86ae-137d06299bf5.jpg?v=1733748428"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9247566987541</id>
+      <title>Blue / Size 2</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHOBXCOD439UB0102FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9247566987541</id>
+      <title>Blue / Size 3</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHOBXCOD439UB0103FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9247566987541</id>
+      <title>Blue / Size 4</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHOBXCOD439UB0104FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9238151135509</id>
+    <published>2024-11-27T16:25:10+07:00</published>
+    <updated>2024-11-27T16:25:10+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-classic-authentic-hoodie-boxy-2-0"/>
+    <title>Levents® Classic Authentic Hoodie Boxy 2.0</title>
+    <s:type>HOODIE</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Black_LHOBXCLD132UD0102FW24_1.jpg?v=1732699435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>HOODIE<br>
+        <strong>Giá: </strong>
+            620000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_ef20b86a-7f54-4e03-afbe-828e4e6a19ce.jpg?v=1732699342"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_ebee49e8-d45d-4916-8fe9-420f974f0f06.jpg?v=1732699342"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_b26f2a64-b496-4ee7-9abb-44f5f6a6f430.jpg?v=1732699342"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_6c6e1a41-c43c-4cf8-a393-699514f55c08.jpg?v=1732699342"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9238151135509</id>
+      <title>Size 2 / Black</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHOBXCLD132UD0102FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9238151135509</id>
+      <title>Size 3 / Black</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHOBXCLD132UD0103FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9238151135509</id>
+      <title>Size 4 / Black</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHOBXCLD132UD0104FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9238151135509</id>
+      <title>Size 2 / Tan</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHOBXCLD132UT0402FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9238151135509</id>
+      <title>Size 3 / Tan</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHOBXCLD132UT0403FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9238151135509</id>
+      <title>Size 4 / Tan</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHOBXCLD132UT0404FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

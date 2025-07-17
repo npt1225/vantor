@@ -1,0 +1,108 @@
+if(typeof boostPFSThemeConfig<"u")var boostPFSFilterConfig={general:{limit:boostPFSConfig.custom.products_per_page,loadProductFirst:!0,numberFilterTree:2,selectOptionContainer:".grid__item .card-wrapper",stickyFixTopPos:!0},selector:{otpTopCartCount:".cart-count-bubble"}};(function(){var onSale=!1,soldOut=!1,priceVaries=!1,images=[],boostPFSRangeWidths=[165,360,533,720,940,1066];BoostPFS.inject(this),Selector.stickyElementDesktop=jQ(".boost-pfs-filter-left-col").length>0&&!Utils.isMobile()?".boost-pfs-filter-left-col":".boost-pfs-filter-tree";function prepareShopifyData(data){if(soldOut=!data.available,onSale=data.compare_at_price_min>data.price_min,priceVaries=data.price_min!=data.price_max,images=data.images_info,firstVariant=data.variants[0],Utils.getParam("variant")!==null&&Utils.getParam("variant")!=""){var paramVariant=data.variants.filter(function(e){return e.id==Utils.getParam("variant")});typeof paramVariant[0]<"u"&&(firstVariant=paramVariant[0])}else for(var i=0;i<data.variants.length;i++)if(data.variants[i].available){firstVariant=data.variants[i];break}return data}ProductGridItem.prototype.compileTemplate=function(data){data||(data=this.data),data=prepareShopifyData(data);var itemHtml=boostPFSTemplate.productGridItemHtml;boostPFSTemplate.soldOutClass=boostPFSTemplate.soldOutClass||"sold-out";var soldOutClass=soldOut?boostPFSTemplate.soldOutClass:"",saleClass=onSale?boostPFSTemplate.saleClass:"",ratioImage=getRatioImage(data),imageAspectRatio=ratioImage/getAspectRatio(data.images_info[0])*100;return itemHtml=itemHtml.replace(/{{imageAspectRatio}}/g,imageAspectRatio),itemHtml=itemHtml.replace(/{{soldOutClass}}/g,soldOutClass),itemHtml=itemHtml.replace(/{{saleClass}}/g,saleClass),itemHtml=itemHtml.replace(/{{cardProductClass}}/g,buildCardProductClass(data)),itemHtml=itemHtml.replace(/{{cardInnerProductClass}}/g,buildCardInnerProductClass(data)),itemHtml=itemHtml.replace(/{{cardBadgePosition}}/g,boostPFSThemeConfig.custom.badge_position),itemHtml=itemHtml.replace(/{{cardIsHeadingFive}}/g,buildCardIsHeadingFive(data)),itemHtml=itemHtml.replace(/{{itemSoldOut}}/g,buildSoldOutLabel()),itemHtml=itemHtml.replace(/{{itemSale}}/g,buildSaleLabel()),itemHtml=itemHtml.replace(/{{itemImages}}/g,buildImages(data)),itemHtml=itemHtml.replace(/{{itemPrice}}/g,buildPrice(data)),typeof Integration>"u"||typeof Integration<"u"&&typeof Integration.hascompileTemplate=="function"&&Integration.hascompileTemplate("reviews"),itemHtml=itemHtml.replace(/{{itemReviews}}/g,buildReview(data)),itemHtml=itemHtml.replace(/{{itemDescription}}/g,boostPFSThemeConfig.custom.description||""),itemHtml=itemHtml.replace(/{{itemVendor}}/g,buildVendor(data)),itemHtml=itemHtml.replace(/{{tags}}/g,buildSwatch(data)),itemHtml=itemHtml.replace(/{{itemId}}/g,data.id),itemHtml=itemHtml.replace(/{{itemTitle}}/g,data.title),itemHtml=itemHtml.replace(/{{itemHandle}}/g,data.handle),itemHtml=itemHtml.replace(/{{itemVendorLabel}}/g,data.vendor),itemHtml=itemHtml.replace(/{{itemUrl}}/g,Utils.buildProductItemUrlWithVariant(data)),itemHtml};function buildImages(data){var html="";if(images&&Array.isArray(images)&&images.length>0){html+="";for(var aspectRatio="",rangeWidths=boostPFSRangeWidths,dataSrcSet="",imgAlt=data.title,flipImageSrcSet="",activeSwapImage=!Utils.isMobile()&&images.length>1,i=0;i<rangeWidths.length;i++)dataSrcSet+=Utils.getFeaturedImage(images,rangeWidths[i]+"x")+" "+rangeWidths[i]+"w",activeSwapImage&&(flipImageSrcSet+=Utils.optimizeImage(images[1].src,rangeWidths[i]+"x")+" "+rangeWidths[i]+"w"),i<rangeWidths.length-1&&(dataSrcSet+=", ",activeSwapImage&&(flipImageSrcSet+=", "));aspectRatio=images[0].width/images[0].height;let imageSlider=`
+        
+      <div class="swiper w-100 h-100">
+      <div class="swiper-wrapper">
+         ${images.map(img=>{for(var i2=0;i2<rangeWidths.length;i2++)dataSrcSet+=Utils.optimizeImage(img.src,rangeWidths[i2]+"x")+" "+rangeWidths[i2]+"w",i2<rangeWidths.length-1&&(dataSrcSet+=", ");let colorLabels="color,m\xE0u s\u1EAFc",colorValues=[],imageHide=!1,dataColor="";return data.options_with_values.map(item=>{colorLabels.includes(item.name)&&(colorValues=item.values.map(value=>value.title))}),colorValues.length>0&&colorValues.map((item,index)=>{let value=item.replace(" ","").toLowerCase(),imageName=img.src.split("/").pop().split("_")[0].toLowerCase();value==imageName&&(dataColor=item,index>0&&(imageHide=!0))}),`
+          <div class="swiper-slide ${imageHide?"hidden":""} " ${dataColor?`data-color="${dataColor}"`:""}>
+          <div class="card__media">
+            <a class="media" href="${Utils.buildProductItemUrlWithVariant(data)}">
+                <img class="motion-reduce" 
+                  loading="lazy"
+             
+                  src="${Utils.optimizeImage(img.src,"533x")}"
+                  width="${images[0].width}" height="${images[0].height}"
+                  alt="${imgAlt}"
+                  />
+            </a>
+          </div>
+          </div>
+        `}).join("")}
+      </div>
+      <div class="swiper-pagination"></div>
+      <div class="swiper-button-prev">
+        <svg  class="icon arrow-left"  viewBox="0 0 9 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M7.99976 15L0.999756 8L7.99976 1" stroke="black" stroke-width="1.2" stroke-linejoin="round"/>
+          </svg>
+          
+      </div>
+      <div class="swiper-button-next">
+        <svg  class="icon arrow-right" viewBox="0 0 9 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M1 15L8 8L0.999999 1" stroke="black" stroke-width="1.2" stroke-linejoin="round"/>
+          </svg>
+          
+      </div>
+  </div>
+      `;html+=imageSlider}else html+=`<div class="card__content">
+                <div class="card__information">
+                  <h3 class="card__heading">
+                    <a href="#" class="full-unstyled-link">
+                      ${data.title}
+                    </a>
+                  </h3>
+                </div>
+              </div>`;return html}function buildCardProductClass(data){var html=""+boostPFSThemeConfig.custom.card_style;return!images||images.length==0?(html+=" card--media",html+=" card--media-empty"):html+=" card--media",boostPFSThemeConfig.custom.card_style=="card"&&(html+=" color-"+boostPFSThemeConfig.custom.card_color_scheme),html}function buildCardInnerProductClass(data){var html="";return boostPFSThemeConfig.custom.card_style=="standard"&&(html+=" color-"+boostPFSThemeConfig.custom.card_color_scheme),html}function buildCardIsHeadingFive(data){var html="";return(images||boostPFSThemeConfig.custom.card_style=="standard")&&(html="h5"),html}function buildVendor(data){var html="";return boostPFSThemeConfig.custom.hasOwnProperty("show_vendor")&&boostPFSThemeConfig.custom.show_vendor===!0&&(html=boostPFSTemplate.vendorHtml),html}function buildFlashSale(data,onSale2){var html="",flash_sale_collections=window.flash_sale_collections;let current=window.countDownCurrent||new Date().getTime();if(flash_sale_collections&&flash_sale_collections.length){for(let coll of data.collections){let collection=flash_sale_collections.find(flashsale=>flashsale.collection.id===coll.id);if(collection&&collection.start_date&&collection.end_date){let start_date=new Date(collection.start_date).getTime(),end_date=new Date(collection.end_date).getTime();const getDuration=(endTime,startTime)=>{const durationMs=endTime-startTime,durationHours=Math.floor(durationMs/(1e3*60*60)),durationMinutes=Math.floor(durationMs%(1e3*60*60)/(1e3*60)),durationSeconds=Math.floor(durationMs%(1e3*60)/1e3);return`${durationHours>=10?durationHours:"0"+durationHours}: ${durationMinutes>=10?durationMinutes:"0"+durationMinutes}: ${durationSeconds>=10?durationSeconds:"0"+durationSeconds}`};return current<start_date&&current<end_date&&(html=`${onSale2?"|":""} ${window.theme_lang.flashsale.product_item_start} ${getDuration(start_date,current)}`),current>=start_date&&current<=end_date&&(html=`${onSale2?"|":""} ${window.theme_lang.flashsale.product_item_end} ${getDuration(end_date,current)}`),html}}return""}}function buildShockdeal(data,onSale2){let shockDealTags="buy-1-get-1-in-3,buy-1-get-1, buy-2-get-1-in-2, buy-2-get-1, buy-3-get-1",tag=window.theme_lang.shockdeal.product_label;return data.tags.find(tag2=>shockDealTags.includes(tag2))?onSale2?"| "+tag:tag:""}function buildPrice(data){var html="",noComparePrice=data.price_varies===!1&&data.compare_at_price_varies,priceAmount=boostPFSConfig.custom.currency_code_enabled?Utils.formatMoney(data.price_min,"money_with_currency"):Utils.formatMoney(data.price_min),compareAtPrice=boostPFSConfig.custom.currency_code_enabled?Utils.formatMoney(data.compare_at_price_min,"money_with_currency"):Utils.formatMoney(data.compare_at_price_min),moneyPrice=priceVaries?boostPFSConfig.label.from_price_html.replace(/{{ price }}/,priceAmount):priceAmount,unitPriceClass=!data.available||typeof data?.selected_or_first_available_variant?.unit_price_measurement>"u"?"hidden":"",save_amount=onSale?Math.floor((data.compare_at_price_min-data.price_min)*100/data.compare_at_price_min):0;return html=`<div class="price ${soldOut?"price--sold-out":""} ${onSale?"price--on-sale":""}${noComparePrice?"price--no-compare":""}">
+          <div class="price__container">
+            <div class="price__regular">
+              <span class="visually-hidden visually-hidden--inline">
+                ${boostPFSConfig.label.regular_price}
+              </span>
+              <span class="price-item price-item--regular">
+                ${moneyPrice}
+              </span>
+            </div>
+            <div class="price__sale">
+            
+              <span class="visually-hidden visually-hidden--inline">${boostPFSConfig.label.sale_price}</span>
+              <span class="price-item price-item--sale price-item--last">
+                ${moneyPrice}
+              </span>
+              <span class="visually-hidden visually-hidden--inline">
+              ${boostPFSConfig.label.regular_price}
+            </span>
+            <span>
+              <s class="price-item price-item--regular">
+                ${compareAtPrice}
+              </s>
+            </span>
+            </div>
+            <small class="unit-price caption ${unitPriceClass}">
+              <span class="visually-hidden">${boostPFSConfig.label.unit_price}</span>
+              <span class="price-item price-item--last">
+                <span>${Utils.formatMoney(data.selected_or_first_available_variant&&data.selected_or_first_available_variant.unit_price)}</span>
+                <span aria-hidden="true">/</span>
+                <span class="visually-hidden">&nbsp;${boostPFSConfig.label.unit_price_separator}&nbsp;</span>
+              </span>
+            </small>
+          </div>
+        </div>
+        <span
+        class="badge badge--top-left badge-sale "
+      >
+        ${onSale&&save_amount?"-"+save_amount+"%":""} ${buildFlashSale(data,onSale)||""} ${buildShockdeal(data,onSale)||""}
+      </span>
+        `,html}function buildSoldOutLabel(){var soldOutLabel="";return boostPFSThemeConfig.custom.hasOwnProperty("sold_out_badge_color_scheme")&&soldOut&&(soldOutLabel=boostPFSTemplate.soldOutLabelHtml.replace(/{{soldOutBadgeClass}}/g,boostPFSThemeConfig.custom.sold_out_badge_color_scheme)),soldOutLabel}function buildSaleLabel(){var saleLabel="";return saleLabel}function buildReview(data){var html="";return console.log(Utils.getProductMetafield(data,"judgeme","badge")),Utils.getProductMetafield(data,"judgeme","badge");if(Utils.getProductMetafield(data,"reviews","rating")!==null){var ratingObj=JSON.parse(Utils.getProductMetafield(data,"reviews","rating")),rating_decimal=0,decimal=parseFloat(ratingObj.value.rating);decimal>=.3&&decimal<=.7?rating_decimal=.5:decimal>.7&&(rating_decimal=1),html=`<div class="rating" role="img" aria-label="${boostPFSConfig.label.star_reviews_info.replace("{{ rating_value }}",ratingObj.value).replace("{{ rating_max }}",ratingObj.value.scale_max)}">
+                <span aria-hidden="true" class="rating-star color-icon-${boostPFSConfig.custom.accent_icons}" style="--rating: ${Math.round(ratingObj.value.rating)}; --rating-max: ${ratingObj.value.scale_max}; --rating-decimal: ${rating_decimal};"></span>
+              </div>
+              <p class="rating-text caption">
+                <span aria-hidden="true">${ratingObj.value} / ${ratingObj.value.scale_max}</span>
+              </p>
+              <p class="rating-count caption">
+                <span aria-hidden="true">(${Utils.getProductMetafield(data,"reviews","rating_count")})</span>
+                <span class="visually-hidden">${Utils.getProductMetafield(data,"reviews","rating_count")} ${boostPFSConfig.label.total_reviews}</span>
+              </p>`}return html}function getAspectRatio(data){var width=data==null?"535":data.width,height=data==null?"535":data.height;return width/height}function getRatioImage(data){var ratio=1;return images&&boostPFSThemeConfig.custom.media_size=="portrait"?ratio=.8:images&&boostPFSThemeConfig.custom.media_size=="adapt"&&(ratio=getAspectRatio(data.images[0])),(ratio===0||ratio===null)&&(ratio=1),ratio}function buildSwatch(data){let colorLabels="color,m\xE0u s\u1EAFc",imagesColor=[];if(data.options_with_values.map(item=>{colorLabels.includes(item.name)&&item.values.map(value=>{data.variants.some(variant=>{if(variant.options.includes(value.title))return variant.image&&imagesColor.push({src:variant.image,title:value.title}),!0})})}),imagesColor.length>0)return`<div class="product__colors">${imagesColor.map(item=>` <div
+        class="color-swatch color-swatch-image color-swatch--small test"
+        aria-label="${data.title}-${item.title}"
+        data-value="${item.title}"
+        style="background-color:  ${item.title};background-image: url(${item.src});"
+      ></div>`).join("")}</div>`;let colors=data.tags.find(tag=>tag.toLowerCase().includes("color_"));if(colors)return colors=colors.toLowerCase().replace("color_","").split("+"),`<div class="product__colors">${colors.map(item=>{const color=item.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/-$/,"").replace(/^-/,"");return` <div
+        class="color-swatch color-swatch--small test"
+        aria-label="${data.title}-${color}"
+        style="background-color:  ${color};background-image: url(${Utils.getFilePath("color_"+color+".png")});"
+      >
+      </div> `}).join("")}</div>`;{let colorsOption=data.options_with_values.find(item=>item.name=="color");if(colorsOption)return colors=colorsOption.values.map(item=>item.title),`<div class="product__colors">${colors.map(item=>{const color=item.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/-$/,"").replace(/^-/,"");return` <div
+        class="color-swatch color-swatch--small test"
+        aria-label="${data.title}-${color}"
+        style="background-color:  ${color};background-image: url(${Utils.getFilePath("color_"+color+".png")});"
+      >
+      </div> `}).join("")}</div>`}return'<div class="product__colors"></div>'}ProductPaginationDefault.prototype.compileTemplate=function(totalProduct){totalProduct||(totalProduct=this.totalProduct);var currentPage=parseInt(Globals.queryParams.page),totalPage=Math.ceil(totalProduct/Globals.queryParams.limit);if(totalPage<=1)return"";var paginationHtml=boostPFSTemplate.paginateHtml,previousHtml=currentPage>1?boostPFSTemplate.previousActiveHtml:"";previousHtml=previousHtml.replace(/{{itemUrl}}/g,Utils.buildToolbarLink("page",currentPage,currentPage-1)),paginationHtml=paginationHtml.replace(/{{previous}}/g,previousHtml);var nextHtml=currentPage<totalPage?boostPFSTemplate.nextActiveHtml:"";nextHtml=nextHtml.replace(/{{itemUrl}}/g,Utils.buildToolbarLink("page",currentPage,currentPage+1)),paginationHtml=paginationHtml.replace(/{{next}}/g,nextHtml);for(var beforeCurrentPageArr=[],iBefore=currentPage-1;iBefore>currentPage-3&&iBefore>0;iBefore--)beforeCurrentPageArr.unshift(iBefore);currentPage-4>0&&beforeCurrentPageArr.unshift("..."),currentPage-4>=0&&beforeCurrentPageArr.unshift(1),beforeCurrentPageArr.push(currentPage);for(var afterCurrentPageArr=[],iAfter=currentPage+1;iAfter<currentPage+3&&iAfter<=totalPage;iAfter++)afterCurrentPageArr.push(iAfter);currentPage+3<totalPage&&afterCurrentPageArr.push("..."),currentPage+3<=totalPage&&afterCurrentPageArr.push(totalPage);for(var pageItemsHtml="",pageArr=beforeCurrentPageArr.concat(afterCurrentPageArr),iPage=0;iPage<pageArr.length;iPage++)pageArr[iPage]=="..."?pageItemsHtml+=boostPFSTemplate.pageItemRemainHtml:pageItemsHtml+=pageArr[iPage]==currentPage?boostPFSTemplate.pageItemSelectedHtml:boostPFSTemplate.pageItemHtml,pageItemsHtml=pageItemsHtml.replace(/{{itemTitle}}/g,pageArr[iPage]),pageItemsHtml=pageItemsHtml.replace(/{{itemUrl}}/g,Utils.buildToolbarLink("page",currentPage,pageArr[iPage]));return paginationHtml=paginationHtml.replace(/{{pageItems}}/g,pageItemsHtml),paginationHtml},ProductSorting.prototype.compileTemplate=function(){var html="";if(boostPFSTemplate.hasOwnProperty("sortingHtml")){var sortingArr=Utils.getSortingList();if(sortingArr){var paramSort=Globals.queryParams.sort||"",sortingItemsHtml="";for(var k in sortingArr){var isSelected="";paramSort==k&&(isSelected='selected="selected"'),sortingItemsHtml+='<option value="'+k+'"'+isSelected+">"+sortingArr[k]+"</option>"}html=boostPFSTemplate.sortingHtml.replace(/{{sortingItems}}/g,sortingItemsHtml)}}return html},ProductSorting.prototype.render=function(){jQ(Selector.topSorting).html(this.compileTemplate()),jQ(".boost-pfs-filter-custom-sorting").hasClass("boost-pfs-filter-sort-active")&&jQ(".boost-pfs-filter-custom-sorting").toggleClass("boost-pfs-filter-sort-active");var labelSort="",paramSort=Globals.queryParams.sort||"",sortingList=Utils.getSortingList();paramSort.length>0&&sortingList&&sortingList[paramSort]?labelSort=sortingList[paramSort]:labelSort=Labels.sorting,jQ(".boost-pfs-filter-custom-sorting button span span").text(labelSort)},ProductSorting.prototype.bindEvents=function(){jQ(Selector.topSorting+" .facet-filters__sort").change(function(e){e.preventDefault(),FilterApi.setParam("sort",jQ(this).val()),FilterApi.setParam("page",1),FilterApi.applyFilter("sort")})},ProductList.prototype.afterRender=function(data){data||(data=this.data)},Filter.prototype.afterRender=function(data,eventType){data||(data=this.data),jQ(".boost-pfs-filter-total-product").html(data.total_product+" products")}})();var originalModifyFn=FilterOption.prototype.modifyValues;const sizeConfig=window.size_config;var originalBuildLabelFn=FilterOptionItem.prototype.buildLabel;FilterOptionItem.prototype.buildLabel=function(event){var label=originalBuildLabelFn.call(this,event);return label};let inited=!1;FilterOption.prototype.afterRender=function(){if(this.filterType=="opt_size"&&!inited){let item=jQ(this.$element).find(".boost-pfs-filter-option-item"),sizeValue=item.find(".boost-pfs-filter-option-value").text();sizeConfig.map(size=>{item.each(function(){jQ(this).find(".boost-pfs-filter-option-value").text()==size.name&&jQ(this).append(`<span class="boost-pfs-filter-option-info tc">${size.info}</span>`)})}),inited=!0,document.querySelectorAll(".boost-pfs-filter-button.boost-pfs-filter-option-title-heading").forEach(e=>{const clickEvent=new Event("click");e.dispatchEvent(clickEvent)})}},document.addEventListener("DOMContentLoaded",function(){},!1),FilterResult.prototype.afterRender=function(){setTimeout(()=>{const filterTree=document.querySelector(".boost-pfs-filter-tree-mobile-button"),toolbarHeader=document.querySelector(".boost-pfs-filter-mobile-toolbar-header");if(toolbarHeader&&(toolbarHeader.innerText="B\u1ED8 L\u1ECCC N\xC2NG CAO"),filterTree){const labelElement=filterTree.querySelector("button .boost-pfs-filter-tree-mobile-button-label");labelElement&&(labelElement.innerText="B\u1ED8 L\u1ECCC N\xC2NG CAO")}},1)};
+//# sourceMappingURL=/cdn/shop/t/8/assets/boost-pfs-filter.js.map?v=26011668855156812211712717405

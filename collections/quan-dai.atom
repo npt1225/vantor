@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="vi" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://levents.asia/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://levents.asia/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://levents.asia/collections/quan-dai.atom"/>
+  <title>Levents</title>
+  <updated>2024-12-23T00:55:34+07:00</updated>
+  <author>
+    <name>Levents</name>
+  </author>
+  <entry>
+    <id>https://levents.asia/products/9251410018581</id>
+    <published>2024-12-23T00:55:34+07:00</published>
+    <updated>2024-12-23T00:55:34+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-x-hello-kitty-striped-chino-pants"/>
+    <title>Levents® x Hello Kitty | Striped Chino Pants</title>
+    <s:type>PANT</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Blue_LPACNLKN249UB0102FW24_1.jpg?v=1734622738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>PANT<br>
+        <strong>Giá: </strong>
+            580000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_c7394b6a-8078-4d73-933d-a318883ea629.jpg?v=1735197866"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_c236ff42-c023-4bf6-8a4b-0f4b5ca1fc1d.jpg?v=1735197867"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_3a1827af-0044-493d-9f71-a8328b437449.jpg?v=1735197867"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/5-Size_chart_1fa56d79-ccf7-41da-a0e5-f9bc333f35f6.jpg?v=1735197866"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9251410018581</id>
+      <title>Size 1 / Blue</title>
+      <s:price currency="VND">580000</s:price>
+      <s:sku>LPACNLKN249UB0101FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410018581</id>
+      <title>Size 1 / Black</title>
+      <s:price currency="VND">580000</s:price>
+      <s:sku>LPACNLKN249UD0101FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410018581</id>
+      <title>Size 2 / Blue</title>
+      <s:price currency="VND">580000</s:price>
+      <s:sku>LPACNLKN249UB0102FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410018581</id>
+      <title>Size 2 / Black</title>
+      <s:price currency="VND">580000</s:price>
+      <s:sku>LPACNLKN249UD0102FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410018581</id>
+      <title>Size 3 / Blue</title>
+      <s:price currency="VND">580000</s:price>
+      <s:sku>LPACNLKN249UB0103FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410018581</id>
+      <title>Size 3 / Black</title>
+      <s:price currency="VND">580000</s:price>
+      <s:sku>LPACNLKN249UD0103FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410018581</id>
+      <title>Size 4 / Blue</title>
+      <s:price currency="VND">580000</s:price>
+      <s:sku>LPACNLKN249UB0104FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410018581</id>
+      <title>Size 4 / Black</title>
+      <s:price currency="VND">580000</s:price>
+      <s:sku>LPACNLKN249UD0104FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9207209296149</id>
+    <published>2024-09-20T20:36:54+07:00</published>
+    <updated>2024-09-20T20:36:54+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-loose-fit-pants-black"/>
+    <title>Levents® Loose Fit Pants/ Black</title>
+    <s:type>PANT</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Black_LPALSCON218UD0102FW24_1.jpg?v=1726839369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>PANT<br>
+        <strong>Giá: </strong>
+            480000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_619e6a1d-4e40-4976-8e78-030b1d657236.jpg?v=1726839300"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_c03a6e2d-63b6-4661-986c-1263cf5ccbff.jpg?v=1726839300"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_08c5c06c-77c7-4cef-9571-7a5838e1329d.jpg?v=1726839300"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_d92aed5c-e4e2-468c-a4f5-8e410a4c35dc.jpg?v=1726839300"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9207209296149</id>
+      <title>Size 2 / Black</title>
+      <s:price currency="VND">480000</s:price>
+      <s:sku>LPALSCON218UD0102FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9207209296149</id>
+      <title>Size 3 / Black</title>
+      <s:price currency="VND">480000</s:price>
+      <s:sku>LPALSCON218UD0103FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9207209296149</id>
+      <title>Size 4 / Black</title>
+      <s:price currency="VND">480000</s:price>
+      <s:sku>LPALSCON218UD0104FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9121569046805</id>
+    <published>2024-07-27T13:13:17+07:00</published>
+    <updated>2024-07-27T13:13:17+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-2tone-track-pants"/>
+    <title>Levents® 2tone Track Pants</title>
+    <s:type>PANT</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Green_LPASTCON257UG0102SS24_1.jpg?v=1721636778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>PANT<br>
+        <strong>Giá: </strong>
+            480000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_f2cb041c-7c4a-4264-8fd5-8edbc253dc1a.jpg?v=1721636657"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_2159196a-84c7-42d9-9a92-d8727ab144f9.jpg?v=1721636658"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_73804ea7-2201-421a-ab5e-da09b6ac1210.jpg?v=1721636658"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_8b5af289-6fef-4276-abc0-71b65f34921c.jpg?v=1721636657"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9121569046805</id>
+      <title>Size 2 / Black</title>
+      <s:price currency="VND">480000</s:price>
+      <s:sku>LPASTCON257UD0102SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9121569046805</id>
+      <title>Size 3 / Black</title>
+      <s:price currency="VND">480000</s:price>
+      <s:sku>LPASTCON257UD0103SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9121569046805</id>
+      <title>Size 4 / Black</title>
+      <s:price currency="VND">480000</s:price>
+      <s:sku>LPASTCON257UD0104SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9121569046805</id>
+      <title>Size 2 / Green</title>
+      <s:price currency="VND">480000</s:price>
+      <s:sku>LPASTCON257UG0102SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9121569046805</id>
+      <title>Size 3 / Green</title>
+      <s:price currency="VND">480000</s:price>
+      <s:sku>LPASTCON257UG0103SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9121569046805</id>
+      <title>Size 4 / Green</title>
+      <s:price currency="VND">480000</s:price>
+      <s:sku>LPASTCON257UG0104SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="vi" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://levents.asia/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://levents.asia/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://levents.asia/collections/sweater-knit.atom"/>
+  <title>Levents</title>
+  <updated>2025-01-08T16:01:19+07:00</updated>
+  <author>
+    <name>Levents</name>
+  </author>
+  <entry>
+    <id>https://levents.asia/products/9245923311893</id>
+    <published>2025-01-08T16:01:19+07:00</published>
+    <updated>2025-01-08T16:01:19+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-authentic-knitted-semi-oversized-polo"/>
+    <title>Levents® Authentic Knitted Semi-Oversized Polo</title>
+    <s:type>POLO</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Black_LPOSOCOC238UD0101FW24_1.jpg?v=1736326444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>POLO<br>
+        <strong>Giá: </strong>
+            550000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Overall.jpg?v=1736326221"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_46d0f1f2-3374-45e6-a51c-576cbd2776e7.jpg?v=1736326221"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_5baa0e6f-a3bd-4406-be32-1fc8f05a5e96.jpg?v=1736326222"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/5-Size_chart_82c6e286-bb70-462b-8a0d-d62d8c35f53e.jpg?v=1736326221"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Black / Size 1</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UD0101FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Black / Size 2</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UD0102FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Black / Size 3</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UD0103FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Black / Size 4</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UD0104FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Pink / Size 1</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UP0101FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Pink / Size 2</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UP0102FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Pink / Size 3</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UP0103FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Pink / Size 4</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UP0104FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Light Brown / Size 1</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UN0201FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Light Brown / Size 2</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UN0202FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Light Brown / Size 3</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UN0203FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9245923311893</id>
+      <title>Light Brown / Size 4</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LPOSOCOC238UN0204FW24</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9251409658133</id>
+    <published>2024-12-23T00:56:15+07:00</published>
+    <updated>2024-12-23T00:56:15+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-x-hello-kitty-small-kitty-knit-cardigan-navy"/>
+    <title>Levents® x Hello Kitty | Small Kitty Knit Cardigan/ Navy</title>
+    <s:type>CARDIGAN</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Navy_LCARELKI355UNAV02FW24_1.jpg?v=1734623838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>CARDIGAN<br>
+        <strong>Giá: </strong>
+            780000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_ddc9c53e-bc7a-4ec9-8b69-78822b8b4d26.jpg?v=1735196811"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_aaf1b7d4-84b2-45f5-9e5f-ce96cc2e60d0.jpg?v=1735196811"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_207d12b4-80a1-4940-9f83-64b784db7276.jpg?v=1735196811"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Group_4_1927e6b9-c46a-4d12-a9c7-92fe4a585055.jpg?v=1735196811"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9251409658133</id>
+      <title>Size 2 / Navy</title>
+      <s:price currency="VND">780000</s:price>
+      <s:sku>LCARELKI355UNAV02FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251409658133</id>
+      <title>Size 3 / Navy</title>
+      <s:price currency="VND">780000</s:price>
+      <s:sku>LCARELKI355UNAV03FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251409658133</id>
+      <title>Size 4 / Navy</title>
+      <s:price currency="VND">780000</s:price>
+      <s:sku>LCARELKI355UNAV04FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

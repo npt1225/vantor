@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="vi" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://levents.asia/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://levents.asia/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://levents.asia/collections/jacket.atom"/>
+  <title>Levents</title>
+  <updated>2025-06-03T14:35:03+07:00</updated>
+  <author>
+    <name>Levents</name>
+  </author>
+  <entry>
+    <id>https://levents.asia/products/9117716316437</id>
+    <published>2025-06-03T14:35:03+07:00</published>
+    <updated>2025-06-03T14:35:03+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-classic-2tone-wrinkle-nylon-jacket"/>
+    <title>Levents® Classic 2Tone Wrinkle Nylon Jacket</title>
+    <s:type>JACKET</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Blue_LJASPCLM161UB0102FW23_1.jpg?v=1715598097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>JACKET<br>
+        <strong>Giá: </strong>
+            455000 - 650000
+            <a href="https://levents.asia/products/levents%C2%AE-classic-2tone-wrinkle-nylon-jacket">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_1f716494-b76a-4afa-946f-8a05a1b8787f.jpg?v=1715597717"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Detail_540fa634-83f2-49a3-805b-5d6c8e010f61.jpg?v=1715597717"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Print_76e84f9a-70c2-4f7f-98ba-5e22c6407c0b.jpg?v=1715597717"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Material_45b9502c-4bea-4b8b-ab5b-323774cb3273.jpg?v=1715597717"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/5-Size_chart_a9a09004-f7e4-4fa1-8179-3731b8adc270.jpg?v=1715597717"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9117716316437</id>
+      <title>Size 2 / Black</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LJASPCLM161UD0102FW23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9117716316437</id>
+      <title>Size 2 / Blue</title>
+      <s:price currency="VND">455000</s:price>
+      <s:sku>LJASPCLM161UB0102FW23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9117716316437</id>
+      <title>Size 3 / Black</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LJASPCLM161UD0103FW23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9117716316437</id>
+      <title>Size 3 / Blue</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LJASPCLM161UB0103FW23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9117716316437</id>
+      <title>Size 4 / Black</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LJASPCLM161UD0104FW23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9117716316437</id>
+      <title>Size 4 / Blue</title>
+      <s:price currency="VND">455000</s:price>
+      <s:sku>LJASPCLM161UB0104FW23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9180327575829</id>
+    <published>2024-10-23T20:52:52+07:00</published>
+    <updated>2024-10-23T20:52:52+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-striped-boxy-khaki-jacket-dark-blue"/>
+    <title>Levents® Striped Boxy Khaki Jacket</title>
+    <s:type>JACKET</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/DarkBlue_LJABOCOM281UB0502SS24_1.jpg?v=1729691455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>JACKET<br>
+        <strong>Giá: </strong>
+            650000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_2.jpg?v=1746540548" alt=""><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_a93b284d-ee26-499c-87db-aa868a97a02e.jpg?v=1729691465"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_15138c29-e3d6-4d28-be81-6a6911b04479.jpg?v=1729691464"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_2218b912-d577-44be-8df6-4e1634109249.jpg?v=1730279947"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9180327575829</id>
+      <title>Size 2 / Black</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LJABOCOM281UD0102SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9180327575829</id>
+      <title>Size 2 / Dark Blue</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LJABOCOM281UB0502SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9180327575829</id>
+      <title>Size 3 / Black</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LJABOCOM281UD0103SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9180327575829</id>
+      <title>Size 3 / Dark Blue</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LJABOCOM281UB0503SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9180327575829</id>
+      <title>Size 4 / Black</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LJABOCOM281UD0104SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9180327575829</id>
+      <title>Size 4 / Dark Blue</title>
+      <s:price currency="VND">650000</s:price>
+      <s:sku>LJABOCOM281UB0504SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9134633910549</id>
+    <published>2024-07-17T20:08:23+07:00</published>
+    <updated>2024-07-17T20:08:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-2tone-nylon-jacket"/>
+    <title>Levents® 2tone Nylon Jacket</title>
+    <s:type>JACKET</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Green_LJASPCOM256UG0102SS24_1.jpg?v=1721221589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>JACKET<br>
+        <strong>Giá: </strong>
+            630000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_ef88876b-7db0-4741-baa9-323cd92c6734.jpg?v=1721221509"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_ca1b46ad-07b5-403e-a631-ea29515bb271.jpg?v=1721221510"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_e7beebe2-968c-48e6-9ad7-795ff5e17251.jpg?v=1721221510"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_0f6a54ba-46cb-4726-a7af-fe724da7567e.jpg?v=1721221509"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9134633910549</id>
+      <title>Size 2 / Green</title>
+      <s:price currency="VND">630000</s:price>
+      <s:sku>LJASPCOM256UG0102SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9134633910549</id>
+      <title>Size 3 / Green</title>
+      <s:price currency="VND">630000</s:price>
+      <s:sku>LJASPCOM256UG0103SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9134633910549</id>
+      <title>Size 4 / Green</title>
+      <s:price currency="VND">630000</s:price>
+      <s:sku>LJASPCOM256UG0104SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9134633910549</id>
+      <title>Size 2 / Red</title>
+      <s:price currency="VND">630000</s:price>
+      <s:sku>LJASPCOM256UR0102SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9134633910549</id>
+      <title>Size 3 / Red</title>
+      <s:price currency="VND">630000</s:price>
+      <s:sku>LJASPCOM256UR0103SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9134633910549</id>
+      <title>Size 4 / Red</title>
+      <s:price currency="VND">630000</s:price>
+      <s:sku>LJASPCOM256UR0104SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9010584060181</id>
+    <published>2024-03-01T21:58:53+07:00</published>
+    <updated>2024-03-01T21:58:53+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-classic-wrinkle-nylon-line-hood-jacket-black"/>
+    <title>Levents® Classic Wrinkle Nylon Line Hood Jacket/ Black</title>
+    <s:type>HOOD JACKET</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Black_LHJOVCLD758UD0102FW23_1.jpg?v=1711365099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>HOOD JACKET<br>
+        <strong>Giá: </strong>
+            680000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LEVENTS® Classic Wrinkle Nylon Hood Jacket/ Black<br><br>Form áo oversize có độ dài phủ quá mông, phần tay áo rộng rãi, form dáng thoải mái, thoáng mát khi mặc. <br>Size: 2/3/4<br><br>Đặc điểm:<br>- Với 2 phối màu chính là Black &amp; Red vừa nổi bật mà cũng vừa tinh tế năng động, phù hợp với mọi giới tính. Vô cùng dễ phối đồ <br>- Khóa kéo không rỉ cao cấp, đảm bảo độ bền cao khi sử dụng <br>- Với thiết kế cổ lọ kết hợp cùng mũ trùm phù hợp để che nắng, gió nhưng vẫn đảm bảo sự thoáng mát <br>- Thiết kế 2 đường line màu CREAM song song ở 2 tay áo và giữa áo tạo nên sự hài hòa, thu hút mắt<br><br>Mặt trước:<br>- Logo Levents thêu đặc trưng ở mặt ngực trái tạo sự tinh tế <br><br>- Cấu trúc sản phẩm: Dù nhăn<br>- Dù nhăn - mỏng nhẹ, thoáng mát, được tích hợp công nghệ trượt nước tiên tiến. Ngoài ra còn giúp chống nắng, mưa hiệu quả</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9010584060181</id>
+      <title>Size 2 / Black</title>
+      <s:price currency="VND">680000</s:price>
+      <s:sku>LHJOVCLD758UD0102FW23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9010584060181</id>
+      <title>Size 3 / Black</title>
+      <s:price currency="VND">680000</s:price>
+      <s:sku>LHJOVCLD758UD0103FW23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9010584060181</id>
+      <title>Size 4 / Black</title>
+      <s:price currency="VND">680000</s:price>
+      <s:sku>LHJOVCLD758UD0104FW23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="vi" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://levents.asia/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://levents.asia/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://levents.asia/collections/hoodie-zipper.atom"/>
+  <title>Levents</title>
+  <updated>2024-12-23T00:55:55+07:00</updated>
+  <author>
+    <name>Levents</name>
+  </author>
+  <entry>
+    <id>https://levents.asia/products/9251410084117</id>
+    <published>2024-12-23T00:55:55+07:00</published>
+    <updated>2024-12-23T00:55:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-x-hello-kitty-kittys-family-zipper-hoodie-boxy-2-0"/>
+    <title>Levents® x Hello Kitty | Kitty&apos;s Family Zipper Hoodie Boxy 2.0</title>
+    <s:type>HOODIE ZIP</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/IceBergBlue_LHZBXLKE448UIB102FW24_1.jpg?v=1734606367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>HOODIE ZIP<br>
+        <strong>Giá: </strong>
+            680000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_2218352d-ffe1-4ef8-bbe1-2d593849d586.jpg?v=1735197719"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_abad5d5a-72da-437b-a599-3c4faa1f466b.jpg?v=1735197726"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_7a6f5b44-e439-4cc0-92bf-260469bfa3e7.jpg?v=1735197725"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_BOXY_zipper_HD_2.0_61aab6d5-fe60-4cce-ba84-799ab99505cb.jpg?v=1735197725"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9251410084117</id>
+      <title>Size 2 / Iceberg Blue</title>
+      <s:price currency="VND">680000</s:price>
+      <s:sku>LHZBXLKE448UIB102FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410084117</id>
+      <title>Size 3 / Iceberg Blue</title>
+      <s:price currency="VND">680000</s:price>
+      <s:sku>LHZBXLKE448UIB103FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410084117</id>
+      <title>Size 4 / Iceberg Blue</title>
+      <s:price currency="VND">680000</s:price>
+      <s:sku>LHZBXLKE448UIB104FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410084117</id>
+      <title>Size 2 / Tan</title>
+      <s:price currency="VND">680000</s:price>
+      <s:sku>LHZBXLKE448UT0402FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410084117</id>
+      <title>Size 3 / Tan</title>
+      <s:price currency="VND">680000</s:price>
+      <s:sku>LHZBXLKE448UT0403FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9251410084117</id>
+      <title>Size 4 / Tan</title>
+      <s:price currency="VND">680000</s:price>
+      <s:sku>LHZBXLKE448UT0404FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9225539092757</id>
+    <published>2024-11-09T14:27:13+07:00</published>
+    <updated>2024-11-09T14:27:13+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-two-tone-raglan-zipper-hoodie-boxy-2-0"/>
+    <title>Levents® Two-tone Raglan Zipper Hoodie Boxy 2.0</title>
+    <s:type>HOODIE ZIP</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/LightBlue_LHZRBCOE224UB0202FW24_1.jpg?v=1731137058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>HOODIE ZIP<br>
+        <strong>Giá: </strong>
+            620000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Detail_43f214fc-80cb-4599-88a7-f44ff85b25d1.jpg?v=1731311069"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_0dc09ae6-202b-48f8-883c-68d4d38a40fd.jpg?v=1731136961"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_1fe65e7d-21f5-4498-8cfd-1b057684e494.jpg?v=1731136961"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_4cc8e40f-481d-42bb-a026-546f69121d2f.jpg?v=1731136960"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 2 / Light Blue</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224UB0202FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 3 / Light Blue</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224UB0203FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 4 / Light Blue</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224UB0204FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 2 / Light Pink</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224ULP102FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 3 / Light Pink</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224ULP103FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 4 / Light Pink</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224ULP104FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 2 / Mushroom</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224UM0202FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 3 / Mushroom</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224UM0203FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 4 / Mushroom</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224UM0204FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 2 / Tan</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224UT0402FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 3 / Tan</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224UT0403FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9225539092757</id>
+      <title>Size 4 / Tan</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZRBCOE224UT0404FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9203770884373</id>
+    <published>2024-10-21T18:54:52+07:00</published>
+    <updated>2024-10-21T18:54:52+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-classic-zipper-hoodie-boxy-2-0"/>
+    <title>Levents® Classic Zipper Hoodie Boxy 2.0</title>
+    <s:type>HOODIE ZIP</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/LightBlue_LHZBXCLE101UB0202FW24_1.jpg?v=1729511098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>HOODIE ZIP<br>
+        <strong>Giá: </strong>
+            496000 - 620000
+            <a href="https://levents.asia/products/levents%C2%AE-classic-zipper-hoodie-boxy-2-0">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Detail_2.jpg?v=1731311069"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_54c24735-1711-4c60-87ad-2e9fab926b24.jpg?v=1729510636"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_af4cb2cf-8e8a-4a58-bb84-a5d0e85c222b.jpg?v=1729510637"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_BOXY_zipper_HD_2.0.jpg?v=1729510637"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 2 / Tan</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UT0402FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 2 / Light Grey</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UG0702FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 2 / Light Blue</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UB0202FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 2 / Lilas</title>
+      <s:price currency="VND">496000</s:price>
+      <s:sku>LHZBXCLE101UL0302FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 2 / Black</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UD0102FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 3 / Tan</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UT0403FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 3 / Light Grey</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UG0703FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 3 / Light Blue</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UB0203FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 3 / Lilas</title>
+      <s:price currency="VND">496000</s:price>
+      <s:sku>LHZBXCLE101UL0303FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 3 / Black</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UD0103FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 4 / Tan</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UT0404FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 4 / Light Grey</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UG0704FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 4 / Light Blue</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UB0204FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 4 / Lilas</title>
+      <s:price currency="VND">496000</s:price>
+      <s:sku>LHZBXCLE101UL0304FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9203770884373</id>
+      <title>Size 4 / Black</title>
+      <s:price currency="VND">620000</s:price>
+      <s:sku>LHZBXCLE101UD0104FW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9186962014485</id>
+    <published>2024-08-19T11:46:30+07:00</published>
+    <updated>2024-08-19T11:46:30+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-classic-boxy-zipper-hoodie-2-0-extra-color"/>
+    <title>Levents® Classic Boxy Zipper Hoodie 2.0 Extra Color</title>
+    <s:type>HOODIE ZIP</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Brown_LHZBXCOE275UN0102SS24_1.jpg?v=1723810977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>HOODIE ZIP<br>
+        <strong>Giá: </strong>
+            610000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Group_21.jpg?v=1723810698"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_84cde67d-6e31-4e14-b676-c351bc31b09f.jpg?v=1723810698"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_c07b9f57-fa96-4dad-81d9-358ad101c560.jpg?v=1723810698"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_855bedf3-0064-4f2f-8393-bd7a7d2029e1.jpg?v=1723810697"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9186962014485</id>
+      <title>Size 2 / Brown</title>
+      <s:price currency="VND">610000</s:price>
+      <s:sku>LHZBXCOE275UN0102SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9186962014485</id>
+      <title>Size 3 / Brown</title>
+      <s:price currency="VND">610000</s:price>
+      <s:sku>LHZBXCOE275UN0103SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9186962014485</id>
+      <title>Size 4 / Brown</title>
+      <s:price currency="VND">610000</s:price>
+      <s:sku>LHZBXCOE275UN0104SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9186962014485</id>
+      <title>Size 2 / Navy</title>
+      <s:price currency="VND">610000</s:price>
+      <s:sku>LHZBXCOE275UNAV02SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9186962014485</id>
+      <title>Size 3 / Navy</title>
+      <s:price currency="VND">610000</s:price>
+      <s:sku>LHZBXCOE275UNAV03SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9186962014485</id>
+      <title>Size 4 / Navy</title>
+      <s:price currency="VND">610000</s:price>
+      <s:sku>LHZBXCOE275UNAV04SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9186962014485</id>
+      <title>Size 2 / DarkGrey</title>
+      <s:price currency="VND">610000</s:price>
+      <s:sku>LHZBXCOE275UX0202SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9186962014485</id>
+      <title>Size 3 / DarkGrey</title>
+      <s:price currency="VND">610000</s:price>
+      <s:sku>LHZBXCOE275UX0203SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9186962014485</id>
+      <title>Size 4 / DarkGrey</title>
+      <s:price currency="VND">610000</s:price>
+      <s:sku>LHZBXCOE275UX0204SS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

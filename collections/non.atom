@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="vi" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://levents.asia/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://levents.asia/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://levents.asia/collections/non.atom"/>
+  <title>Levents</title>
+  <updated>2024-12-23T00:57:02+07:00</updated>
+  <author>
+    <name>Levents</name>
+  </author>
+  <entry>
+    <id>https://levents.asia/products/9251409625365</id>
+    <published>2024-12-23T00:57:02+07:00</published>
+    <updated>2024-12-23T00:57:02+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-x-hello-kitty-kittys-family-cap-black"/>
+    <title>Levents® x Hello Kitty | Kitty&apos;s Family Cap/ Black</title>
+    <s:type>CAP</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Black_LCPSPLKU453UD01NOFW24_1.jpg?v=1734623989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>CAP<br>
+        <strong>Giá: </strong>
+            350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_55261bb0-d435-4337-810f-8613d0adf58a.jpg?v=1735196628"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_db493137-4108-4de7-9f10-8f6da4e1e7b6.jpg?v=1735196629"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_b04ac1af-5f64-4f10-a5dd-9e8f519d7098.jpg?v=1735196629"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/SLIDE_21_d2b96264-e014-45eb-ac79-163438444fd8.jpg?v=1735196629"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9251409625365</id>
+      <title>Onesize / Black</title>
+      <s:price currency="VND">350000</s:price>
+      <s:sku>LCPSPLKU453UD01NOFW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9171426607381</id>
+    <published>2024-08-20T19:01:26+07:00</published>
+    <updated>2024-08-20T19:01:26+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-baseball-snapback"/>
+    <title>Levents® Baseball Snapback</title>
+    <s:type>CAP</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Black_LCPSNCOU280UD01NOSS24_1.jpg?v=1724155167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>CAP<br>
+        <strong>Giá: </strong>
+            280000 - 350000
+            <a href="https://levents.asia/products/levents%C2%AE-baseball-snapback">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Group_22.jpg?v=1724154942"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/2-Print_2.jpg?v=1724154961"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Material_2.jpg?v=1724154961"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Size_chart_2.jpg?v=1724154961"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9171426607381</id>
+      <title>Onesize / White</title>
+      <s:price currency="VND">280000</s:price>
+      <s:sku>LCPSNCOU280UW01NOSS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9171426607381</id>
+      <title>Onesize / Blue</title>
+      <s:price currency="VND">280000</s:price>
+      <s:sku>LCPSNCOU280UB01NOSS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9171426607381</id>
+      <title>Onesize / Black</title>
+      <s:price currency="VND">350000</s:price>
+      <s:sku>LCPSNCOU280UD01NOSS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="vi" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://levents.asia/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://levents.asia/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://levents.asia/collections/bag.atom"/>
+  <title>Levents</title>
+  <updated>2024-12-10T19:45:31+07:00</updated>
+  <author>
+    <name>Levents</name>
+  </author>
+  <entry>
+    <id>https://levents.asia/products/9261107970325</id>
+    <published>2024-12-10T19:45:31+07:00</published>
+    <updated>2024-12-10T19:45:31+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-basic-tote-bag"/>
+    <title>Levents® Basic Tote Bag</title>
+    <s:type>TOTE</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Brown_LTBTOCOF161UN01NOFW24_1.jpg?v=1733834396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>TOTE<br>
+        <strong>Giá: </strong>
+            180000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail_006dcf0e-29dc-4431-ba5d-ca0e2c41446a.jpg?v=1733833688"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/1-Detail-1_08ee9ef4-95f6-49ca-bb67-f31eea07285a.jpg?v=1733833688"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/3-Print_84b85cd6-b225-45d6-920a-151b7b8f3bd8.jpg?v=1733833689"><img alt="" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/4-Material_d7b4d388-33aa-40ad-bfa2-99fd2e8959de.jpg?v=1733833688"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9261107970325</id>
+      <title>Onesize / Midnight Blue</title>
+      <s:price currency="VND">180000</s:price>
+      <s:sku>LTBTOCOF161UMB1NOFW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9261107970325</id>
+      <title>Onesize / White Canvas</title>
+      <s:price currency="VND">180000</s:price>
+      <s:sku>LTBTOCOF161UWC1NOFW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9261107970325</id>
+      <title>Onesize / Red</title>
+      <s:price currency="VND">180000</s:price>
+      <s:sku>LTBTOCOF161UR01NOFW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9261107970325</id>
+      <title>Onesize / Light Blue</title>
+      <s:price currency="VND">180000</s:price>
+      <s:sku>LTBTOCOF161UB02NOFW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9261107970325</id>
+      <title>Onesize / Forest Green</title>
+      <s:price currency="VND">180000</s:price>
+      <s:sku>LTBTOCOF161UFG1NOFW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9261107970325</id>
+      <title>Onesize / Brown</title>
+      <s:price currency="VND">180000</s:price>
+      <s:sku>LTBTOCOF161UN01NOFW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://levents.asia/products/9261107970325</id>
+      <title>Onesize / Pink</title>
+      <s:price currency="VND">180000</s:price>
+      <s:sku>LTBTOCOF161UP01NOFW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levents.asia/products/9010582978837</id>
+    <published>2024-02-19T18:24:11+07:00</published>
+    <updated>2024-02-19T18:24:11+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levents.asia/products/levents%C2%AE-college-nylon-tote-bag-black"/>
+    <title>Levents® College Nylon Tote Bag/ Black</title>
+    <s:type>TOTE</s:type>
+    <s:vendor>levents-asia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0681/2821/1221/files/Black_LTBTOCOE818UD01NOSS24_1.jpg?v=1711365599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>levents-asia<br>
+        <strong>Loại: </strong>TOTE<br>
+        <strong>Giá: </strong>
+            550000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LEVENTS® College Nylon Tote Bag</strong></p>
+<p>Nylon Tote Bag với thiết kế form lớn đủ để đựng laptop, sách vở, bút viết, đồ dùng cá nhân cơ bản. Vô cùng phù hợp để sử dụng đi học, đi chơi, đi cafe hằng ngày</p>
+<p>Size: One size</p>
+<p>Mặt trước</p>
+<p>- Thiết kế tối giản nhưng nổi bật với graphic được áp dụng kỹ thuật thêu nổi cao cấp cùng phối màu xanh dương pastel mát mắt và màu đỏ sáng tạo điểm nhấn cho túi.</p>
+<p>- BLACK: trung tính, chống bẩn để bạn có thể mix&amp;match với đa dạng outfit.</p>
+<p>- Cấu trúc sản phẩm: Nylon cao cấp</p>
+<p>- Nylon - Nylon thoáng khí, dày dặn, có khả năng trượt nước tiện dụng</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://levents.asia/products/9010582978837</id>
+      <title>Onesize / Black</title>
+      <s:price currency="VND">550000</s:price>
+      <s:sku>LTBTOCOE818UD01NOSS24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
